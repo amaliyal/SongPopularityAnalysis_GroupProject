@@ -6,7 +6,7 @@ Alisa Yanovski: https://www.linkedin.com/in/alisa-yanovski/ https://github.com/n
 
 Amily Luo: www.linkedin.com/in/amaliyaluo https://github.com/amaliyal
 
-Blessing Ogechi Nwojiji:
+Blessing Ogechi Nwojiji: https://www.linkedin.com/in/blessing-ogechi-nwojiji-89a869b6/
 
 Hassanat Awodipe:
 
