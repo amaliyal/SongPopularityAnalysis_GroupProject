@@ -8,6 +8,6 @@ Amily Luo: www.linkedin.com/in/amaliyaluo https://github.com/amaliyal
 
 Blessing Ogechi Nwojiji: https://www.linkedin.com/in/blessing-ogechi-nwojiji-89a869b6/ https://github.com/Blessing-Nwojiji
 
-Hassanat Awodipe:
+Hassanat Awodipe: hassanat
 
 Madina Baimaganbetova:
