@@ -10,4 +10,4 @@ Blessing Ogechi Nwojiji: https://www.linkedin.com/in/blessing-ogechi-nwojiji-89a
 
 Hassanat Awodipe: hassanat
 
-Madina Baimaganbetova:
+Madina Baimaganbetova: https://www.linkedin.com/in/madina-baimaganbetova/  https://github.com/MadB-ux/
