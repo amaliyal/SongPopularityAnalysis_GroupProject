@@ -14,7 +14,7 @@ Blessing Ogechi Nwojiji: \
 https://www.linkedin.com/in/blessing-ogechi-nwojiji-89a869b6/ \
 https://github.com/Blessing-Nwojiji 
 
-Hassanat Awodipe: hassanat \
+Hassanat Awodipe: hassanat 
 
 Madina Baimaganbetova: \
 https://www.linkedin.com/in/madina-baimaganbetova/  \
