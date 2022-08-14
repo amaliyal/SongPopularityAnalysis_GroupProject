@@ -16,7 +16,7 @@ https://github.com/Blessing-Nwojiji
 
 Hassanat Awodipe: \
 https://www.linkedin.com/in/hassanatawodipe/ \
-https://github.com/Hassanat-Awodipe \
+https://github.com/Hassanat-Awodipe
 
 Madina Baimaganbetova: \
 https://www.linkedin.com/in/madina-baimaganbetova/  \
