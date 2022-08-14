@@ -8,14 +8,14 @@ https://github.com/noneofthelis \
 
 Amily Luo:\
 www.linkedin.com/in/amaliyaluo \
-https://github.com/amaliyal\
+https://github.com/amaliyal \
 
 Blessing Ogechi Nwojiji: \
 https://www.linkedin.com/in/blessing-ogechi-nwojiji-89a869b6/ \
-https://github.com/Blessing-Nwojiji\
+https://github.com/Blessing-Nwojiji \
 
-Hassanat Awodipe: hassanat\
+Hassanat Awodipe: hassanat \
 
 Madina Baimaganbetova: \
 https://www.linkedin.com/in/madina-baimaganbetova/  \
-https://github.com/MadB-ux/\
+https://github.com/MadB-ux/ \
