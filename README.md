@@ -26,6 +26,6 @@ Because this is a class project, it also includes presentation slides, project r
 
 To execute the code, download the jupyter notebook and execute in order. There is clear instruction on the setup and all.
 
----------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 Feel free to contact if there's any doubt in what you can or cannot do with this project.
