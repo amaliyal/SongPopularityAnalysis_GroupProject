@@ -1,6 +1,6 @@
 # Analysis of Songs' Popularity - GroupProject
 
-This is a final project for the CFGdegree data specialisation with Code First Girls. It was done by [Alisa Yanovski](https://www.linkedin.com/in/alisa-yanovski/), [Amily Luo](www.linkedin.com/in/amaliyaluo), [Blessing Ogechi Nwojiji](https://www.linkedin.com/in/blessing-ogechi-nwojiji-89a869b6/), [Hassanat Awodipe](https://www.linkedin.com/in/hassanatawodipe/) and [Madina Baimaganbetova](https://www.linkedin.com/in/madina-baimaganbetova/).  
+This is a final project for the CFGdegree data specialisation with Code First Girls. It was done by [Alisa Yanovski](https://www.linkedin.com/in/alisa-yanovski/), [Amily Luo](https://www.linkedin.com/in/amaliyaluo/), [Blessing Ogechi Nwojiji](https://www.linkedin.com/in/blessing-ogechi-nwojiji-89a869b6/), [Hassanat Awodipe](https://www.linkedin.com/in/hassanatawodipe/) and [Madina Baimaganbetova](https://www.linkedin.com/in/madina-baimaganbetova/).  
 
 
 ## Project Description
