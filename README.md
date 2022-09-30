@@ -24,7 +24,7 @@ The main branch consists a jupyter notebook with all our code (analysis_of_song_
 
 Because this is a class project, it also includes presentation slides, project report and meeting minutes. 
 
-To execute the code, download the jupyter notebook and execute in order. There is clear instruction on the setup and all.
+To execute the code, you may download the jupyter notebook and execute in order. There codes have been properly commented.
 
 --------------------------------------------------------------------------------------------------------------------
 
